@@ -6,5 +6,6 @@
 - [building-blocks](https://github.com/bonsairobo/building-blocks) - 2D/3D agnostic lattice library/successor to ilattice3
 - [amethyst-voxel](https://github.com/Kurble/amethyst_voxel) - voxels in amethyst **NO LONGER BEING DEVELOPED**
 ## Programs
-- [Voxel Mapper](https://github.com/amethyst/voxel-mapper) - a voxel based tool/library for creating voxel worlds using amethyst+ilattice3
+- [Veloren](https://gitlab.com/veloren/veloren) - a game in the style of dwarf fortresss/cube world using the SPECS ECS
+- [Voxel Mapper](https://github.com/amethyst/voxel-mapper) - a tool/library for creating voxel worlds using amethyst+ilattice3
 - [Minkraft](https://github.com/superdump/minkraft) - a WIP minecraft clone made using bevy+ilattice3
